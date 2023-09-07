@@ -674,3 +674,4 @@ new line 672
 new line 673
 new line 674
 new line 675
+new line 676
