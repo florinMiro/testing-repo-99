@@ -1006,3 +1006,4 @@ new line 1004
 new line 1005
 new line 1006
 new line 1007
+new line 1008
